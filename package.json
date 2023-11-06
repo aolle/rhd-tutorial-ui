@@ -52,7 +52,7 @@
     "stylelint-config-standard": "~20.0",
     "through2": "~4.0",
     "typeface-roboto": "1.1.13",
-    "typeface-roboto-mono": "0.0.75",
+    "typeface-roboto-mono": "1.1.13",
     "vinyl-buffer": "~1.0",
     "vinyl-fs": "~3.0"
   },
