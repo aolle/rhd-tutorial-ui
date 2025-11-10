@@ -4264,10 +4264,10 @@ gulp-terser@~2.1.0:
     through2 "^4.0.2"
     vinyl-sourcemaps-apply "^0.2.1"
 
-gulp-vinyl-zip@~2.2:
-  version "2.2.0"
-  resolved "https://registry.npmjs.org/gulp-vinyl-zip/-/gulp-vinyl-zip-2.2.0.tgz"
-  integrity sha512-7tKXptewHdKnOV0HGIyB/5+dvfmwmHq+hnolAQ64zz/pPomUXJcFPeYCkatRmOztkfZOn+14zoIFS2G39PkzIg==
+gulp-vinyl-zip@~2.5:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/gulp-vinyl-zip/-/gulp-vinyl-zip-2.5.0.tgz#73eef9c067b8775b1ad07a34a41384e1c7b0041a"
+  integrity sha512-KPi5/2SUmkXXDvKU4L2U1dkPOP03SbhONTOgNZlL23l9Yopt+euJ1bBXwWrSMbsyh3JLW/TYuC8CI4c4Kq4qrw==
   dependencies:
     queue "^4.2.1"
     through "^2.3.8"
