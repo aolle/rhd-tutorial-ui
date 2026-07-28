@@ -48,7 +48,7 @@
     "prettier-eslint": "~9.0",
     "require-directory": "~2.1",
     "require-from-string": "~2.0",
-    "stylelint": "~13.10",
+    "stylelint": "~13.13",
     "stylelint-config-standard": "~20.0",
     "through2": "~4.0",
     "typeface-roboto": "1.1.13",
