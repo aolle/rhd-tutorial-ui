@@ -57,6 +57,6 @@
     "vinyl-fs": "~4.0"
   },
   "dependencies": {
-    "gulp-cli": "^2.3.0"
+    "gulp-cli": "^3.1.0"
   }
 }
