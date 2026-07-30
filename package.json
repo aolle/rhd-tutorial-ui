@@ -21,7 +21,7 @@
     "clipboard": "^2.0.11",
     "cssnano": "~4.1.11",
     "eslint": "^9.8.0",
-    "eslint-config-standard": "~14.1",
+    "eslint-config-standard": "~15.0",
     "eslint-plugin-import": "~2.32",
     "eslint-plugin-node": "~11.1",
     "eslint-plugin-promise": "~4.3",
